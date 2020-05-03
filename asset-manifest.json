@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/beijing-airbnb-vis/static/css/main.79308cf0.chunk.css",
-    "main.js": "/beijing-airbnb-vis/static/js/main.0825834c.chunk.js",
-    "main.js.map": "/beijing-airbnb-vis/static/js/main.0825834c.chunk.js.map",
+    "main.css": "/beijing-airbnb-vis/static/css/main.5c8981e1.chunk.css",
+    "main.js": "/beijing-airbnb-vis/static/js/main.e2af543f.chunk.js",
+    "main.js.map": "/beijing-airbnb-vis/static/js/main.e2af543f.chunk.js.map",
     "runtime-main.js": "/beijing-airbnb-vis/static/js/runtime-main.91f82d2c.js",
     "runtime-main.js.map": "/beijing-airbnb-vis/static/js/runtime-main.91f82d2c.js.map",
-    "static/css/2.a72c35d3.chunk.css": "/beijing-airbnb-vis/static/css/2.a72c35d3.chunk.css",
-    "static/js/2.d7c2bb91.chunk.js": "/beijing-airbnb-vis/static/js/2.d7c2bb91.chunk.js",
-    "static/js/2.d7c2bb91.chunk.js.map": "/beijing-airbnb-vis/static/js/2.d7c2bb91.chunk.js.map",
+    "static/css/2.994c4a96.chunk.css": "/beijing-airbnb-vis/static/css/2.994c4a96.chunk.css",
+    "static/js/2.dbc3b7ae.chunk.js": "/beijing-airbnb-vis/static/js/2.dbc3b7ae.chunk.js",
+    "static/js/2.dbc3b7ae.chunk.js.map": "/beijing-airbnb-vis/static/js/2.dbc3b7ae.chunk.js.map",
     "index.html": "/beijing-airbnb-vis/index.html",
-    "precache-manifest.b54f13295c55f3ef1934d2a5ee97e101.js": "/beijing-airbnb-vis/precache-manifest.b54f13295c55f3ef1934d2a5ee97e101.js",
+    "precache-manifest.aa7c0f26dbeca7da08d8e17a0400ba3f.js": "/beijing-airbnb-vis/precache-manifest.aa7c0f26dbeca7da08d8e17a0400ba3f.js",
     "service-worker.js": "/beijing-airbnb-vis/service-worker.js",
-    "static/css/2.a72c35d3.chunk.css.map": "/beijing-airbnb-vis/static/css/2.a72c35d3.chunk.css.map",
-    "static/css/main.79308cf0.chunk.css.map": "/beijing-airbnb-vis/static/css/main.79308cf0.chunk.css.map",
-    "static/js/2.d7c2bb91.chunk.js.LICENSE.txt": "/beijing-airbnb-vis/static/js/2.d7c2bb91.chunk.js.LICENSE.txt"
+    "static/css/2.994c4a96.chunk.css.map": "/beijing-airbnb-vis/static/css/2.994c4a96.chunk.css.map",
+    "static/css/main.5c8981e1.chunk.css.map": "/beijing-airbnb-vis/static/css/main.5c8981e1.chunk.css.map",
+    "static/js/2.dbc3b7ae.chunk.js.LICENSE.txt": "/beijing-airbnb-vis/static/js/2.dbc3b7ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91f82d2c.js",
-    "static/css/2.a72c35d3.chunk.css",
-    "static/js/2.d7c2bb91.chunk.js",
-    "static/css/main.79308cf0.chunk.css",
-    "static/js/main.0825834c.chunk.js"
+    "static/css/2.994c4a96.chunk.css",
+    "static/js/2.dbc3b7ae.chunk.js",
+    "static/css/main.5c8981e1.chunk.css",
+    "static/js/main.e2af543f.chunk.js"
   ]
 }
