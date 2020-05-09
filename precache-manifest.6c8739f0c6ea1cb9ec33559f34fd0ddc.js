@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80f3f2935a98d01102a55de0432c4d90",
+    "revision": "3623bab628b11d4a1851f76c1fd06547",
     "url": "/beijing-airbnb-vis/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beijing-airbnb-vis/static/css/2.994c4a96.chunk.css"
   },
   {
-    "revision": "83d631ec92a8ec8c4746",
+    "revision": "90480eec5f68c5dc5989",
     "url": "/beijing-airbnb-vis/static/css/main.5c8981e1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beijing-airbnb-vis/static/js/2.dbc3b7ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83d631ec92a8ec8c4746",
-    "url": "/beijing-airbnb-vis/static/js/main.e2af543f.chunk.js"
+    "revision": "90480eec5f68c5dc5989",
+    "url": "/beijing-airbnb-vis/static/js/main.3f324f85.chunk.js"
   },
   {
     "revision": "f764b4b6f094416ba651",
