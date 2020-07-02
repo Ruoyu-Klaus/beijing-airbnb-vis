@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/beijing-airbnb-vis/precache-manifest.6c8739f0c6ea1cb9ec33559f34fd0ddc.js"
+  "/beijing-airbnb-vis/precache-manifest.9234b12f622e84d68fde003c0c6f9b1f.js"
 );
 
 self.addEventListener('message', (event) => {

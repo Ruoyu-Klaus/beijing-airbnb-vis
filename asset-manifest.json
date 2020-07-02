@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/beijing-airbnb-vis/static/css/main.5c8981e1.chunk.css",
-    "main.js": "/beijing-airbnb-vis/static/js/main.3f324f85.chunk.js",
-    "main.js.map": "/beijing-airbnb-vis/static/js/main.3f324f85.chunk.js.map",
+    "main.css": "/beijing-airbnb-vis/static/css/main.c3b334a8.chunk.css",
+    "main.js": "/beijing-airbnb-vis/static/js/main.be490ddb.chunk.js",
+    "main.js.map": "/beijing-airbnb-vis/static/js/main.be490ddb.chunk.js.map",
     "runtime-main.js": "/beijing-airbnb-vis/static/js/runtime-main.91f82d2c.js",
     "runtime-main.js.map": "/beijing-airbnb-vis/static/js/runtime-main.91f82d2c.js.map",
-    "static/css/2.994c4a96.chunk.css": "/beijing-airbnb-vis/static/css/2.994c4a96.chunk.css",
+    "static/css/2.a72c35d3.chunk.css": "/beijing-airbnb-vis/static/css/2.a72c35d3.chunk.css",
     "static/js/2.dbc3b7ae.chunk.js": "/beijing-airbnb-vis/static/js/2.dbc3b7ae.chunk.js",
     "static/js/2.dbc3b7ae.chunk.js.map": "/beijing-airbnb-vis/static/js/2.dbc3b7ae.chunk.js.map",
     "index.html": "/beijing-airbnb-vis/index.html",
-    "precache-manifest.6c8739f0c6ea1cb9ec33559f34fd0ddc.js": "/beijing-airbnb-vis/precache-manifest.6c8739f0c6ea1cb9ec33559f34fd0ddc.js",
+    "precache-manifest.9234b12f622e84d68fde003c0c6f9b1f.js": "/beijing-airbnb-vis/precache-manifest.9234b12f622e84d68fde003c0c6f9b1f.js",
     "service-worker.js": "/beijing-airbnb-vis/service-worker.js",
-    "static/css/2.994c4a96.chunk.css.map": "/beijing-airbnb-vis/static/css/2.994c4a96.chunk.css.map",
-    "static/css/main.5c8981e1.chunk.css.map": "/beijing-airbnb-vis/static/css/main.5c8981e1.chunk.css.map",
+    "static/css/2.a72c35d3.chunk.css.map": "/beijing-airbnb-vis/static/css/2.a72c35d3.chunk.css.map",
+    "static/css/main.c3b334a8.chunk.css.map": "/beijing-airbnb-vis/static/css/main.c3b334a8.chunk.css.map",
     "static/js/2.dbc3b7ae.chunk.js.LICENSE.txt": "/beijing-airbnb-vis/static/js/2.dbc3b7ae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91f82d2c.js",
-    "static/css/2.994c4a96.chunk.css",
+    "static/css/2.a72c35d3.chunk.css",
     "static/js/2.dbc3b7ae.chunk.js",
-    "static/css/main.5c8981e1.chunk.css",
-    "static/js/main.3f324f85.chunk.js"
+    "static/css/main.c3b334a8.chunk.css",
+    "static/js/main.be490ddb.chunk.js"
   ]
 }
